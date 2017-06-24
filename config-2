@@ -1,0 +1,26 @@
+DESCRIPTION
+    Default optoins are
+      --git
+      --vim
+      --tmux
+      --sogou
+      --typora
+      --zsh
+  --apt           apt update
+  --beautify      install theme
+  --git           install git
+  --vim           install vim and tmux.conf
+  --sogou         install zsh and oh-my-zsh
+  --zsh           install sogouupinyin
+  --docker        install docker
+  --hexo          instlal hexo (blog framework)
+  --typora        install typora (markdown)
+  --leetcode      install leetcode-cli
+  
+  --help, -h
+  
+  
+  install means:
+  wget https://raw.githubusercontent.com/m75n/my-ubuntu-config/master/my-ubuntu-config.sh
+  chmod +x ./my-ubuntu-config.sh
+  sudo ./my-ubuntu-config.sh
